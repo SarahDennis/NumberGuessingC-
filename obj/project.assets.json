@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarahdennis/Documents/Documents.csproj",
+      "projectUniqueName": "/Users/sarahdennis/Documents/NumberGuessingC-/Documents.csproj",
       "projectName": "Documents",
-      "projectPath": "/Users/sarahdennis/Documents/Documents.csproj",
+      "projectPath": "/Users/sarahdennis/Documents/NumberGuessingC-/Documents.csproj",
       "packagesPath": "/Users/sarahdennis/.nuget/packages/",
-      "outputPath": "/Users/sarahdennis/Documents/obj/",
+      "outputPath": "/Users/sarahdennis/Documents/NumberGuessingC-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarahdennis/.nuget/NuGet/NuGet.Config"

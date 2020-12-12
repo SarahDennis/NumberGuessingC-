@@ -1,0 +1,15 @@
+/Users/sarahdennis/Documents/NumberGuessingC-/bin/Debug/net5.0/Documents.deps.json
+/Users/sarahdennis/Documents/NumberGuessingC-/bin/Debug/net5.0/Documents.runtimeconfig.json
+/Users/sarahdennis/Documents/NumberGuessingC-/bin/Debug/net5.0/Documents.runtimeconfig.dev.json
+/Users/sarahdennis/Documents/NumberGuessingC-/bin/Debug/net5.0/Documents.dll
+/Users/sarahdennis/Documents/NumberGuessingC-/bin/Debug/net5.0/ref/Documents.dll
+/Users/sarahdennis/Documents/NumberGuessingC-/bin/Debug/net5.0/Documents.pdb
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.csprojAssemblyReference.cache
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.AssemblyInfoInputs.cache
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.AssemblyInfo.cs
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.csproj.CoreCompileInputs.cache
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.dll
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/ref/Documents.dll
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.pdb
+/Users/sarahdennis/Documents/NumberGuessingC-/obj/Debug/net5.0/Documents.genruntimeconfig.cache
